@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.tp5sqliteroom"
+    namespace = "com.example.tpSQLite"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.tp5sqliteroom"
+        applicationId = "com.example.tpSQLite"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
